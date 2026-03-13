@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="200" viewBox="0 0 860 200">
+  <defs>
+    <linearGradient id="bg" x1="100%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#0f1729"/>
+      <stop offset="35%" stop-color="#1a1e4a"/>
+      <stop offset="65%" stop-color="#2d1b4e"/>
+      <stop offset="100%" stop-color="#1e1145"/>
+    </linearGradient>
+    <pattern id="grid" width="60" height="60" patternUnits="userSpaceOnUse">
+      <path d="M 36 30 v-4 h-2 v4 h-4 v2 h4 v4 h2 v-4 h4 v-2 h-4 z M 6 30 v-4 H4 v4 H0 v2 h4 v4 h2 v-4 h4 v-2 H6 z" fill="#9C92AC" fill-opacity="0.03"/>
+    </pattern>
+  </defs>
+  <rect width="860" height="200" fill="url(#bg)"/>
+  <rect width="860" height="200" fill="url(#grid)"/>
+  <text x="430" y="88" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, sans-serif" font-size="36" font-weight="700" fill="#ffffff">Sara Maciel</text>
+  <text x="430" y="118" text-anchor="middle" font-family="Segoe UI, -apple-system, BlinkMacSystemFont, sans-serif" font-size="15" fill="#ffffff" fill-opacity="0.7">Product Manager — AI Platforms, Integrations &amp; B2B SaaS</text>
+</svg>
