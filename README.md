@@ -15,7 +15,7 @@
 
 ## About me
 
-Product Manager building **AI-powered platforms** that connect businesses to their customers. I work at the intersection of **conversational AI, CRM/ERP integrations, and B2B SaaS** — turning complex technical ecosystems into products that scale.
+Product Manager building **AI-powered platforms** that connect businesses to their customers. I work at the intersection of **conversational AI, CRM/ERP integrations, and B2B SaaS** - turning complex technical ecosystems into products that scale.
 
 I use AI daily as a thinking and execution partner, not just as a feature I ship. Shape Up, Continuous Discovery, and data-informed decisions guide how I build.
 
