@@ -37,24 +37,9 @@ Product Strategy
 
 ##  Connect with me
 
-LinkedIn  
-linkedin.com/in/sara-elisa  
+## 🌎 Connect with me
 
-GitHub  
-github.com/saramaciel-rgb  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sara%20Maciel-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sara-elisa)
 
-Email  
-saraelisatm25@gmail.com<!--
-**saramaciel-rgb/saramaciel-rgb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Email](https://img.shields.io/badge/Email-Contact%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saraelisatm25@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
